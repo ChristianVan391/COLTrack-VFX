@@ -19,7 +19,7 @@ I made this due to using Blender's built-in tracker being annoying and decided t
 
 ## how to use
 
-- 1 Download from [place holder link. yeah this is not public yet] and extract the zip
+- 1 Download from [here](https://github.com/ChristianVan391/COLTrack-VFX/releases/) and extract the zip
 
 - 2 once extracted open up the folder "VFX_Tracker".
 
@@ -42,7 +42,7 @@ I made this due to using Blender's built-in tracker being annoying and decided t
 - *tested in 5.2 LTS but should work in 5.2 regular and maybe older, versions but not guaranteed so be careful with old projects.
 - **may work in other programs but the importer script may need to be modified.
 - ***no need to install these as they are bundled in and will work automatically. also this is based on COLMAP 4.1.1 no-CUDA (CPU only) for compatibility.
-- ****this is only to check if the core dependencies are included. if not please come redownload from [the place holder link we will need again].
+- ****this is only to check if the core dependencies are included. if not please come redownload from [here](https://github.com/ChristianVan391/COLTrack-VFX/releases/).
 - *****this may happen if the video did not have any parallax or something is wrong. videos orbiting the area and/or with good parallax can help. plus having good video input also helps.
 
 ## Issues & Support
